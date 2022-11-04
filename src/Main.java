@@ -29,6 +29,7 @@ public class Main {
         System.out.println(fun.maxDoubles(8, 5));
         System.out.println(fun.maxDoubles(10, 456000));
 
+
         System.out.println("-- test isPrime --");
         System.out.println(fun.isPrime(2));
         System.out.println(fun.isPrime(13));

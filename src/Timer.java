@@ -6,6 +6,7 @@ public class Timer {
         System.out.print("What number do you want to count up to? ");
         int countTo = scanner.nextInt();
 
+
         int counter = 1;
         System.out.println(counter);
         while (counter < countTo) {

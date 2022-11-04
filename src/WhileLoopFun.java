@@ -71,6 +71,7 @@ public class WhileLoopFun {
                 number *= 2;
                 count++;
             } else {
+
                 number *= 2;
                 count += 0;
             }
